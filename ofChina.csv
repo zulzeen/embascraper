@@ -1,0 +1,270 @@
+continent,country,mission_type,city
+Africa,Algeria,Embassy,Algiers
+Africa,Angola,Embassy,Luanda
+Africa,Benin,Embassy,Cotonou
+Africa,Botswana,Embassy,Gaborone
+Africa,Burkina Faso,Embassy,Ouagadougou
+Africa,Burundi,Embassy,Bujumbura
+Africa,Cameroon,Embassy,Yaoundé
+Africa,Cape Verde,Embassy,Praia
+Africa,Central African Republic,Embassy,Bangui
+Africa,Chad,Embassy,N'Djamena
+Africa,Comoros,Embassy,Moroni
+Africa,Congo-Brazzaville,Embassy,Brazzaville
+Africa,Congo-Kinshasa,Embassy,Kinshasa
+Africa,Djibouti,Embassy,Djibouti
+Africa,Egypt,Embassy,Cairo
+Africa,Egypt,Consulate General,Alexandria
+Africa,Equatorial Guinea,Embassy,Malabo
+Africa,Equatorial Guinea,Consulate General,Bata
+Africa,Eritrea,Embassy,Asmara
+Africa,Ethiopia,Embassy,Addis Ababa
+Africa,Gabon,Embassy,Libreville
+Africa,Gambia,Embassy,Banjul
+Africa,Ghana,Embassy,Accra
+Africa,Guinea,Embassy,Conakry
+Africa,Guinea Bissau,Embassy,Bissau
+Africa,Ivory Coast,Embassy,Abidjan
+Africa,Kenya,Embassy,Nairobi
+Africa,Lesotho,Embassy,Maseru
+Africa,Liberia,Embassy,Monrovia
+Africa,Libya,Embassy,Tripoli
+Africa,Madagascar,Embassy,Antananarivo
+Africa,Malawi,Embassy,Lilongwe
+Africa,Mali,Embassy,Bamako
+Africa,Mauritania,Embassy,Nouakchott
+Africa,Mauritius,Embassy,Port Louis
+Africa,Mozambique,Embassy,Maputo
+Africa,Morocco,Embassy,Rabat
+Africa,Namibia,Embassy,Windhoek
+Africa,Niger,Embassy,Niamey
+Africa,Nigeria,Embassy,Abuja
+Africa,Nigeria,Consulate General,Lagos
+Africa,Rwanda,Embassy,Kigali
+Africa,São Tomé and Príncipe,Embassy,São Tomé
+Africa,Senegal,Embassy,Dakar
+Africa,Seychelles,Embassy,Victoria
+Africa,Sierra Leone,Embassy,Freetown
+Africa,Somalia,Embassy,Mogadishu
+Africa,South Africa,Embassy,Pretoria
+Africa,South Africa,Consulate General,Cape Town
+Africa,South Africa,Consulate General,Durban
+Africa,South Africa,Consulate General,Johannesburg
+Africa,South Sudan,Embassy,Juba
+Africa,Sudan,Embassy,Khartoum
+Africa,Tanzania,Embassy,Dar es Salaam
+Africa,Tanzania,Consulate General,Zanzibar
+Africa,Togo,Embassy,Lomé
+Africa,Tunisia,Embassy,Tunis
+Africa,Uganda,Embassy,Kampala
+Africa,Zambia,Embassy,Lusaka
+Africa,Zimbabwe,Embassy,Harare
+Americas,Antigua and Barbuda,Embassy,St. John's
+Americas,Argentina,Embassy,Buenos Aires
+Americas,Bahamas,Embassy,Nassau
+Americas,Barbados,Embassy,Bridgetown
+Americas,Bolivia,Embassy,La Paz
+Americas,Bolivia,Consulate General,Santa Cruz de la Sierra
+Americas,Brazil,Embassy,Brasília
+Americas,Brazil,Consulate General,Recife
+Americas,Brazil,Consulate General,Rio de Janeiro
+Americas,Brazil,Consulate General,São Paulo
+Americas,Canada,Embassy,Ottawa
+Americas,Canada,Consulate General,Calgary
+Americas,Canada,Consulate General,Montreal
+Americas,Canada,Consulate General,Toronto
+Americas,Canada,Consulate General,Vancouver
+Americas,Chile,Embassy,Santiago
+Americas,Chile,Consulate General,Iquique
+Americas,Colombia,Embassy,Bogotá
+Americas,Costa Rica,Embassy,San José
+Americas,Cuba,Embassy,Havana
+Americas,Dominica,Embassy,Roseau
+Americas,Dominican Republic,Embassy,Santo Domingo
+Americas,Ecuador,Embassy,Quito
+Americas,Ecuador,Consulate General,Guayaquil
+Americas,El Salvador,Embassy,San Salvador
+Americas,Grenada,Embassy,St. George's
+Americas,Guyana,Embassy,Georgetown
+Americas,Honduras,Embassy,Tegucigalpa
+Americas,Jamaica,Embassy,Kingston
+Americas,Mexico,Embassy,Mexico City
+Americas,Mexico,Consulate General,Tijuana
+Americas,Nicaragua,Embassy,Managua
+Americas,Panama,Embassy,Panama City
+Americas,Peru,Embassy,Lima
+Americas,Suriname,Embassy,Paramaribo
+Americas,Trinidad and Tobago,Embassy,Port of Spain
+Americas,United States,Embassy,"Washington, D.C."
+Americas,United States,Consulate General,Chicago
+Americas,United States,Consulate General,Los Angeles
+Americas,United States,Consulate General,New York City
+Americas,United States,Consulate General,San Francisco
+Americas,Uruguay,Embassy,Montevideo
+Americas,Venezuela,Embassy,Caracas
+Asia,Afghanistan,Embassy,Kabul
+Asia,Armenia,Embassy,Yerevan
+Asia,Azerbaijan,Embassy,Baku
+Asia,Bahrain,Embassy,Manama
+Asia,Bangladesh,Embassy,Dhaka
+Asia,Brunei,Embassy,Bandar Seri Begawan
+Asia,Cambodia,Embassy,Phnom Penh
+Asia,Cambodia,Consular Office,Siem Reap
+Asia,Cambodia,Consular Office,Sihanoukville
+Asia,Georgia,Embassy,Tbilisi
+Asia,India,Embassy,New Delhi
+Asia,India,Consulate General,Kolkata
+Asia,India,Consulate General,Mumbai
+Asia,Indonesia,Embassy,Jakarta
+Asia,Indonesia,Consulate General,Medan
+Asia,Indonesia,Consulate General,Surabaya
+Asia,Indonesia,Consulate General,Denpasar
+Asia,Iran,Embassy,Tehran
+Asia,Iran,Consulate General,Bandar Abbas
+Asia,Iraq,Embassy,Baghdad
+Asia,Iraq,Consulate General,Erbil
+Asia,Israel,Embassy,Tel Aviv
+Asia,Japan,Embassy,Tokyo
+Asia,Japan,Consulate General,Fukuoka
+Asia,Japan,Consulate General,Nagoya
+Asia,Japan,Consulate General,Nagasaki
+Asia,Japan,Consulate General,Niigata
+Asia,Japan,Consulate General,Osaka
+Asia,Japan,Consulate General,Sapporo
+Asia,Jordan,Embassy,Amman
+Asia,Kazakhstan,Embassy,Astana
+Asia,Kazakhstan,Consulate General,Almaty
+Asia,Kuwait,Embassy,Kuwait City
+Asia,Kyrgyzstan,Embassy,Bishkek
+Asia,Laos,Embassy,Vientiane
+Asia,Laos,Consulate General,Luang Prabang
+Asia,Lebanon,Embassy,Beirut
+Asia,Malaysia,Embassy,Kuala Lumpur
+Asia,Malaysia,Consulate General,George Town
+Asia,Malaysia,Consulate General,Kuching
+Asia,Malaysia,Consulate General,Kota Kinabalu
+Asia,Maldives,Embassy,Malé
+Asia,Mongolia,Embassy,Ulaanbaatar
+Asia,Mongolia,Consulate General,Zamyn-Üüd
+Asia,Myanmar,Embassy,Yangon
+Asia,Myanmar,Consulate General,Mandalay
+Asia,Nepal,Embassy,Kathmandu
+Asia,North Korea,Embassy,Pyongyang
+Asia,North Korea,Consulate General,Chongjin
+Asia,Oman,Embassy,Muscat
+Asia,Pakistan,Embassy,Islamabad
+Asia,Pakistan,Consulate General,Karachi
+Asia,Pakistan,Consulate General,Lahore
+Asia,Philippines,Embassy,Manila
+Asia,Philippines,Consulate General,Cebu City
+Asia,Philippines,Consulate General,Laoag
+Asia,Philippines,Consulate General,Davao
+Asia,Qatar,Embassy,Doha
+Asia,Saudi Arabia,Embassy,Riyadh
+Asia,Saudi Arabia,Consulate General,Jeddah
+Asia,Singapore,Embassy,Singapore
+Asia,South Korea,Embassy,Seoul
+Asia,South Korea,Consulate General,Busan
+Asia,South Korea,Consulate General,Gwangju
+Asia,South Korea,Consulate General,Jeju
+Asia,Sri Lanka,Embassy,Colombo
+Asia,Syria,Embassy,Damascus
+Asia,Tajikistan,Embassy,Dushanbe
+Asia,Thailand,Embassy,Bangkok
+Asia,Thailand,Consulate General,Chiang Mai
+Asia,Thailand,Consular Office,Phuket
+Asia,Thailand,Consulate General,Songkhla
+Asia,Thailand,Consulate General,Khon Kaen
+Asia,Timor Leste,Embassy,Dili
+Asia,Turkey,Embassy,Ankara
+Asia,Turkey,Consulate General,Istanbul
+Asia,Turkmenistan,Embassy,Ashgabat
+Asia,United Arab Emirates,Embassy,Abu Dhabi
+Asia,United Arab Emirates,Consulate General,Dubai
+Asia,Uzbekistan,Embassy,Tashkent
+Asia,Vietnam,Embassy,Hanoi
+Asia,Vietnam,Consulate General,Da Nang
+Asia,Vietnam,Consulate General,Ho Chi Minh City
+Europe,Albania,Embassy,Tirana
+Europe,Austria,Embassy,Vienna
+Europe,Belarus,Embassy,Minsk
+Europe,Belgium,Embassy,Brussels
+Europe,Bosnia and Herzegovina,Embassy,Sarajevo
+Europe,Bulgaria,Embassy,Sofia
+Europe,Czechia,Embassy,Prague
+Europe,Croatia,Embassy,Zagreb
+Europe,Cyprus,Embassy,Nicosia
+Europe,Denmark,Embassy,Copenhagen
+Europe,Estonia,Embassy,Tallinn
+Europe,Finland,Embassy,Helsinki
+Europe,France,Embassy,Paris
+Europe,France,Consulate General,Marseille
+Europe,France,Consulate General,Strasbourg
+Europe,France,Consulate General,Lyon
+Europe,France,Consulate,Papeete
+Europe,France,Consulate General,Saint-Denis
+Europe,Germany,Embassy,Berlin
+Europe,Germany,Consulate General,Düsseldorf
+Europe,Germany,Consulate General,Frankfurt
+Europe,Germany,Consulate General,Hamburg
+Europe,Germany,Consulate General,Munich
+Europe,Greece,Embassy,Athens
+Europe,Hungary,Embassy,Budapest
+Europe,Iceland,Embassy,Reykjavík
+Europe,Ireland,Embassy,Dublin
+Europe,Italy,Embassy,Rome
+Europe,Italy,Consulate General,Florence
+Europe,Italy,Consulate General,Milan
+Europe,Latvia,Embassy,Riga
+Europe,Lithuania,Chargé d'affaires,Vilnius
+Europe,Luxembourg,Embassy,Luxembourg
+Europe,Malta,Embassy,Attard
+Europe,Moldova,Embassy,Chișinău
+Europe,Montenegro,Embassy,Podgorica
+Europe,Netherlands,Embassy,The Hague
+Europe,Netherlands,Consulate General,"Willemstad, Curaçao"
+Europe,North Macedonia,Embassy,Skopje
+Europe,Norway,Embassy,Oslo
+Europe,Poland,Embassy,Warsaw
+Europe,Poland,Consulate General,Gdańsk
+Europe,Portugal,Embassy,Lisbon
+Europe,Romania,Embassy,Bucharest
+Europe,Russia,Embassy,Moscow
+Europe,Russia,Consulate General,Irkutsk
+Europe,Russia,Consulate General,Kazan
+Europe,Russia,Consulate General,Khabarovsk
+Europe,Russia,Consulate General,Saint Petersburg
+Europe,Russia,Consulate General,Vladivostok
+Europe,Russia,Consulate General,Yekaterinburg
+Europe,Serbia,Embassy,Belgrade
+Europe,Slovakia,Embassy,Bratislava
+Europe,Slovenia,Embassy,Ljubljana
+Europe,Spain,Embassy,Madrid
+Europe,Spain,Consulate General,Barcelona
+Europe,Sweden,Embassy,Stockholm
+Europe,Sweden,Consulate General,Gothenburg
+Europe,Switzerland,Embassy,Bern
+Europe,Switzerland,Consulate General,Zürich
+Europe,Ukraine,Embassy,Kyiv
+Europe,Ukraine,Consulate General,Odesa
+Europe,United Kingdom,Embassy,London
+Europe,United Kingdom,Consulate General,Belfast
+Europe,United Kingdom,Consulate General,Edinburgh
+Europe,United Kingdom,Consulate General,Manchester
+Oceania,Australia,Embassy,Canberra
+Oceania,Australia,Consulate General,Adelaide
+Oceania,Australia,Consulate General,Brisbane
+Oceania,Australia,Consulate General,Melbourne
+Oceania,Australia,Consulate General,Perth
+Oceania,Australia,Consulate General,Sydney
+Oceania,Fiji,Embassy,Suva
+Oceania,Kiribati,Embassy,Tarawa
+Oceania,New Zealand,Embassy,Wellington
+Oceania,New Zealand,Consulate General,Auckland
+Oceania,New Zealand,Consulate General,Christchurch
+Oceania,Micronesia,Embassy,Palikir
+Oceania,Papua New Guinea,Embassy,Port Moresby
+Oceania,Samoa,Embassy,Apia
+Oceania,Solomon Islands,Embassy,Honiara
+Oceania,Tonga,Embassy,Nuku'alofa
+Oceania,Vanuatu,Embassy,Port Vila

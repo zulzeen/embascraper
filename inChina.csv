@@ -1,0 +1,392 @@
+city,mission_type,country
+Beijing,Embassy,Afghanistan
+Beijing,Embassy,Albania
+Beijing,Embassy,Algeria
+Beijing,Embassy,Angola
+Beijing,Embassy,Argentina
+Beijing,Embassy,Armenia
+Beijing,Embassy,Australia
+Beijing,Embassy,Austria
+Beijing,Embassy,Azerbaijan
+Beijing,Embassy,Bahamas
+Beijing,Embassy,Bahrain
+Beijing,Embassy,Bangladesh
+Beijing,Embassy,Barbados
+Beijing,Embassy,Belarus
+Beijing,Embassy,Belgium
+Beijing,Embassy,Benin
+Beijing,Embassy,Bolivia
+Beijing,Embassy,Bosnia and Herzegovina
+Beijing,Embassy,Botswana
+Beijing,Embassy,Brazil
+Beijing,Embassy,Brunei
+Beijing,Embassy,Bulgaria
+Beijing,Embassy,Burkina Faso
+Beijing,Embassy,Burundi
+Beijing,Embassy,Cambodia
+Beijing,Embassy,Cameroon
+Beijing,Embassy,Canada
+Beijing,Embassy,Cape Verde
+Beijing,Embassy,Central African Republic
+Beijing,Embassy,Chad
+Beijing,Embassy,Chile
+Beijing,Embassy,Colombia
+Beijing,Embassy,Comoros
+Beijing,Embassy,Congo-Brazzaville
+Beijing,Embassy,Congo-Kinshasa
+Beijing,Embassy,Costa Rica
+Beijing,Embassy,Croatia
+Beijing,Embassy,Cuba
+Beijing,Embassy,Cyprus
+Beijing,Embassy,Czechia
+Beijing,Embassy,Denmark
+Beijing,Embassy,Djibouti
+Beijing,Embassy,Dominica
+Beijing,Embassy,Dominican Republic
+Beijing,Embassy,East Timor
+Beijing,Embassy,Ecuador
+Beijing,Embassy,Egypt
+Beijing,Embassy,El Salvador
+Beijing,Embassy,Equatorial Guinea
+Beijing,Embassy,Eritrea
+Beijing,Embassy,Estonia
+Beijing,Embassy,Ethiopia
+Beijing,Embassy,Fiji
+Beijing,Embassy,Finland
+Beijing,Embassy,France
+Beijing,Embassy,Gabon
+Beijing,Embassy,Gambia
+Beijing,Embassy,Georgia
+Beijing,Embassy,Germany
+Beijing,Embassy,Ghana
+Beijing,Embassy,Greece
+Beijing,Embassy,Grenada
+Beijing,Embassy,Guinea
+Beijing,Embassy,Guinea-Bissau
+Beijing,Embassy,Guyana
+Beijing,Embassy,Honduras
+Beijing,Embassy,Hungary
+Beijing,Embassy,Iceland
+Beijing,Embassy,India
+Beijing,Embassy,Indonesia
+Beijing,Embassy,Iran
+Beijing,Embassy,Iraq
+Beijing,Embassy,Ireland
+Beijing,Embassy,Israel
+Beijing,Embassy,Italy
+Beijing,Embassy,Ivory Coast
+Beijing,Embassy,Jamaica
+Beijing,Embassy,Japan
+Beijing,Embassy,Jordan
+Beijing,Embassy,Kazakhstan
+Beijing,Embassy,Kenya
+Beijing,Embassy,Kiribati
+Beijing,Embassy,Kuwait
+Beijing,Embassy,Kyrgyzstan
+Beijing,Embassy,Laos
+Beijing,Embassy,Latvia
+Beijing,Embassy,Lebanon
+Beijing,Embassy,Lesotho
+Beijing,Embassy,Liberia
+Beijing,Embassy,Libya
+Beijing,Embassy,Luxembourg
+Beijing,Embassy,Madagascar
+Beijing,Embassy,Malawi
+Beijing,Embassy,Malaysia
+Beijing,Embassy,Maldives
+Beijing,Embassy,Mali
+Beijing,Embassy,Malta
+Beijing,Embassy,Mauritania
+Beijing,Embassy,Mauritius
+Beijing,Embassy,Mexico
+Beijing,Embassy,Micronesia
+Beijing,Embassy,Moldova
+Beijing,Embassy,Mongolia
+Beijing,Embassy,Montenegro
+Beijing,Embassy,Morocco
+Beijing,Embassy,Mozambique
+Beijing,Embassy,Myanmar
+Beijing,Embassy,Namibia
+Beijing,Embassy,Nepal
+Beijing,Embassy,Netherlands
+Beijing,Embassy,New Zealand
+Beijing,Embassy,Nicaragua
+Beijing,Embassy,Niger
+Beijing,Embassy,Nigeria
+Beijing,Embassy,North Korea
+Beijing,Embassy,North Macedonia
+Beijing,Embassy,Norway
+Beijing,Embassy,Oman
+Beijing,Embassy,Pakistan
+Beijing,Embassy,Palestine
+Beijing,Embassy,Panama
+Beijing,Embassy,Papua New Guinea
+Beijing,Embassy,Peru
+Beijing,Embassy,Philippines
+Beijing,Embassy,Poland
+Beijing,Embassy,Portugal
+Beijing,Embassy,Qatar
+Beijing,Embassy,Romania
+Beijing,Embassy,Russia
+Beijing,Embassy,Rwanda
+Beijing,Embassy,Samoa
+Beijing,Embassy,São Tomé and Príncipe
+Beijing,Embassy,Saudi Arabia
+Beijing,Embassy,Senegal
+Beijing,Embassy,Serbia
+Beijing,Embassy,Seychelles
+Beijing,Embassy,Sierra Leone
+Beijing,Embassy,Singapore
+Beijing,Embassy,Slovakia
+Beijing,Embassy,Slovenia
+Beijing,Embassy,Solomon Islands
+Beijing,Embassy,Somalia
+Beijing,Embassy,South Africa
+Beijing,Embassy,South Korea
+Beijing,Embassy,South Sudan
+Beijing,Embassy,Spain
+Beijing,Embassy,Sri Lanka
+Beijing,Embassy,Sudan
+Beijing,Embassy,Suriname
+Beijing,Embassy,Sweden
+Beijing,Embassy,Switzerland
+Beijing,Embassy,Syria
+Beijing,Embassy,Tajikistan
+Beijing,Embassy,Tanzania
+Beijing,Embassy,Thailand
+Beijing,Embassy,Togo
+Beijing,Embassy,Tonga
+Beijing,Embassy,Trinidad and Tobago
+Beijing,Embassy,Tunisia
+Beijing,Embassy,Turkey
+Beijing,Embassy,Turkmenistan
+Beijing,Embassy,Uganda
+Beijing,Embassy,Ukraine
+Beijing,Embassy,United Arab Emirates
+Beijing,Embassy,United Kingdom
+Beijing,Embassy,United States
+Beijing,Embassy,Uruguay
+Beijing,Embassy,Uzbekistan
+Beijing,Embassy,Vanuatu
+Beijing,Embassy,Venezuela
+Beijing,Embassy,Vietnam
+Beijing,Embassy,Yemen
+Beijing,Embassy,Zambia
+Beijing,Embassy,Zimbabwe
+Changsha,Consulate,Laos
+Changsha,Consulate,Malawi
+Chengdu,Consulate,Australia
+Chengdu,Consulate,Austria
+Chengdu,Consulate,Chile
+Chengdu,Consulate,France
+Chengdu,Consulate,Germany
+Chengdu,Consulate,Israel
+Chengdu,Consulate,Nepal
+Chengdu,Consulate,New Zealand
+Chengdu,Consulate,Pakistan
+Chengdu,Consulate,Poland
+Chengdu,Consulate,Singapore
+Chengdu,Consulate,South Korea
+Chengdu,Consulate,Spain
+Chengdu,Consulate,Switzerland
+Chengdu,Consulate,Thailand
+Chengdu,Consulate,Turkey
+Chongqing,Consulate,Belarus
+Chongqing,Consulate,Cambodia
+Chongqing,Consulate,Canada
+Chongqing,Consulate,Italy
+Chongqing,Consulate,Japan
+Chongqing,Consulate,Myanmar
+Chongqing,Consulate,Netherlands
+Chongqing,Consulate,Philippines
+Chongqing,Consulate,United Kingdom
+Chongqing,Consulate,Uruguay
+Dalian,Consulate,Japan 
+Dalian,Consulate,South Korea 
+Dandong,Consulate,North Korea 
+Erenhot,Consulate,Mongolia 
+Guangzhou,Consulate,Angola
+Guangzhou,Consulate,Argentina
+Guangzhou,Consulate,Australia
+Guangzhou,Consulate,Austria
+Guangzhou,Consulate,Belarus
+Guangzhou,Consulate,Belgium
+Guangzhou,Consulate,Brazil
+Guangzhou,Consulate,Cambodia
+Guangzhou,Consulate,Canada
+Guangzhou,Consulate,Chile
+Guangzhou,Consulate,Colombia
+Guangzhou,Consulate,Congo-Brazzaville
+Guangzhou,Consulate,Cuba
+Guangzhou,Consulate,Denmark
+Guangzhou,Consulate,Ecuador
+Guangzhou,Consulate,France
+Guangzhou,Consulate,Germany
+Guangzhou,Consulate,Ghana
+Guangzhou,Consulate,Greece
+Guangzhou,Consulate,Hungary
+Guangzhou,Consulate,India
+Guangzhou,Consulate,Iran
+Guangzhou,Consulate,Israel
+Guangzhou,Consulate,Italy
+Guangzhou,Consulate,Ivory Coast
+Guangzhou,Consulate,Japan
+Guangzhou,Consulate,Kyrgyzstan
+Guangzhou,Consulate,Kuwait
+Guangzhou,Consulate,Laos
+Guangzhou,Consulate,Malaysia
+Guangzhou,Consulate,Mali
+Guangzhou,Consulate,Mexico
+Guangzhou,Consulate,Nepal
+Guangzhou,Consulate,Netherlands
+Guangzhou,Consulate,New Zealand
+Guangzhou,Consulate,Nigeria
+Guangzhou,Consulate,Norway
+Guangzhou,Consulate,Pakistan
+Guangzhou,Consulate,Panama
+Guangzhou,Consulate,Peru
+Guangzhou,Consulate,Philippines
+Guangzhou,Consulate,Poland
+Guangzhou,Consulate,Qatar
+Guangzhou,Consulate,Russia
+Guangzhou,Consulate,Saudi Arabia
+Guangzhou,Consulate,Senegal
+Guangzhou,Consulate,Singapore
+Guangzhou,Consulate,South Korea
+Guangzhou,Consulate,Spain
+Guangzhou,Consulate,Sri Lanka
+Guangzhou,Consulate,Sudan
+Guangzhou,Consulate,Switzerland
+Guangzhou,Consulate,Tanzania
+Guangzhou,Consulate,Thailand
+Guangzhou,Consulate,Turkey
+Guangzhou,Consulate,Uganda
+Guangzhou,Consulate,Ukraine
+Guangzhou,Consulate,United Arab Emirates
+Guangzhou,Consulate,United Kingdom
+Guangzhou,Consulate,United States
+Guangzhou,Consulate,Uruguay
+Guangzhou,Consulate,Uzbekistan
+Guangzhou,Consulate,Vanuatu
+Guangzhou,Consulate,Venezuela
+Guangzhou,Consulate,Vietnam
+Guangzhou,Consulate,Zambia
+Haikou,Consulate,Cambodia
+Harbin,Consulate,Russia
+Hohhot,Consulate,Mongolia
+Manzhouli,Consulate,Mongolia 
+Jinan,Consulate,Cambodia
+Jinghong,Consulate,Laos 
+Kunming,Consulate,Bangladesh
+Kunming,Consulate,Cambodia
+Kunming,Consulate,Laos
+Kunming,Consulate,Malaysia
+Kunming,Consulate,Myanmar
+Kunming,Consulate,Thailand
+Kunming,Consulate,Vietnam
+Lhasa,Consulate,Nepal
+Nanning,Consulate,Cambodia
+Nanning,Consulate,Laos
+Nanning,Consulate,Malaysia
+Nanning,Consulate,Myanmar
+Nanning,Consulate,Thailand
+Nanning,Consulate,Vietnam
+Qingdao,Consulate,Japan
+Qingdao,Consulate,South Korea
+Qingdao,Consulate,Thailand
+Shanghai,Consulate,Argentina
+Shanghai,Consulate,Australia
+Shanghai,Consulate,Austria
+Shanghai,Consulate,Belarus
+Shanghai,Consulate,Belgium
+Shanghai,Consulate,Brazil
+Shanghai,Consulate,Bulgaria
+Shanghai,Consulate,Cambodia
+Shanghai,Consulate,Canada
+Shanghai,Consulate,Chile
+Shanghai,Consulate,Colombia
+Shanghai,Consulate,Costa Rica
+Shanghai,Consulate,Cuba
+Shanghai,Consulate,Czech Republic
+Shanghai,Consulate,Denmark
+Shanghai,Consulate,Dominican Republic
+Shanghai,Consulate,Ecuador
+Shanghai,Consulate,Egypt
+Shanghai,Consulate,Fiji
+Shanghai,Consulate,Finland
+Shanghai,Consulate,France
+Shanghai,Consulate,Germany
+Shanghai,Consulate,Greece
+Shanghai,Consulate,Hungary
+Shanghai,Consulate,Iceland
+Shanghai,Consulate,India
+Shanghai,Consulate,Indonesia
+Shanghai,Consulate,Iran
+Shanghai,Consulate,Ireland
+Shanghai,Consulate,Israel
+Shanghai,Consulate,Italy
+Shanghai,Consulate,Japan
+Shanghai,Consulate,Kazakhstan
+Shanghai,Consulate,Kuwait
+Shanghai,Consulate,Laos
+Shanghai,Consulate,Luxembourg
+Shanghai,Consulate,Malaysia
+Shanghai,Consulate,Malta
+Shanghai,Consulate,Mexico
+Shanghai,Consulate,Mongolia
+Shanghai,Consulate,Netherlands
+Shanghai,Consulate,New Zealand
+Shanghai,Consulate,Nigeria
+Shanghai,Consulate,Norway
+Shanghai,Consulate,Pakistan
+Shanghai,Consulate,Panama
+Shanghai,Consulate,Peru
+Shanghai,Consulate,Philippines
+Shanghai,Consulate,Poland
+Shanghai,Consulate,Portugal
+Shanghai,Consulate,Romania
+Shanghai,Consulate,Russia
+Shanghai,Consulate,Serbia
+Shanghai,Consulate,Seychelles
+Shanghai,Consulate,Singapore
+Shanghai,Consulate,Slovakia
+Shanghai,Consulate,Slovenia 
+Shanghai,Consulate,South Africa
+Shanghai,Consulate,South Korea
+Shanghai,Consulate,Spain
+Shanghai,Consulate,Sri Lanka
+Shanghai,Consulate,Sweden
+Shanghai,Consulate,Switzerland
+Shanghai,Consulate,Thailand
+Shanghai,Consulate,Turkey
+Shanghai,Consulate,Ukraine
+Shanghai,Consulate,United Arab Emirates
+Shanghai,Consulate,United Kingdom
+Shanghai,Consulate,United States
+Shanghai,Consulate,Uruguay
+Shanghai,Consulate,Uzbekistan
+Shanghai,Consulate,Vanuatu
+Shanghai,Consulate,Venezuela
+Shanghai,Consulate,Vietnam
+Shenyang,Consulate,Australia
+Shenyang,Consulate,France
+Shenyang,Consulate,Germany
+Shenyang,Consulate,Japan
+Shenyang,Consulate,North Korea
+Shenyang,Consulate,Russia
+Shenyang,Consulate,South Korea
+Shenyang,Consulate,United States
+Urumqi,Consulate,Kazakhstan 
+Urumqi,Consulate,Kyrgyzstan 
+Wuhan,Consulate,France
+Wuhan,Consulate,South Korea
+Wuhan,Consulate,United Kingdom
+Wuhan,Consulate,United States
+Xiamen,Consulate,Philippines
+Xiamen,Consulate,Singapore
+Xiamen,Consulate,Thailand
+Xi'an,Consulate,Cambodia
+Xi'an,Consulate,Malaysia
+Xi'an,Consulate,Kazakhstan
+Xi'an,Consulate,South Korea
+Xi'an,Consulate,Thailand
